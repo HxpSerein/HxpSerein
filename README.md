@@ -5,7 +5,7 @@ I'm Xiangpeng Hu, living in Beijing, China.
 -  I'm currently working on [Apache IoTDB](https://github.com/apache/iotdb), focus on Consensus, Data Migration and so on.
 -  Master student in Software Engineering, Tsinghua University
 -  B.S. in Software Engineering, Beihang University
--  Currently interested in consensus algorithm, distributed database system and and and distributed transaction.
+-  Currently interested in consensus algorithm, distributed database system and distributed transaction.
 
 📫 How to reach me:  [hxp23@mails.tsinghua.edu.cn](mailto:hxp23@mails.tsinghua.edu.cn)
 
